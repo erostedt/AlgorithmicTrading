@@ -1,0 +1,480 @@
+Ticker,Name,Exchange
+^OMX, OMX Stockholm 30 Index, STO
+^OMXNORDICEURPI,OMX_Nordic_EUR_PI,STO
+^FIRSTNORTHDKK,First North All-Share DKK,STO
+^OMXNORDICDKKPI,OMX_Nordic_DKK_PI,STO
+^OMXB10,OMX_Baltic_10,STO
+^B9000GI,OMX Baltic Technology GI,STO
+^B1700PI,OMX Baltic Basic Resources PI,STO
+^B1300PI,OMX Baltic Chemicals PI,STO
+^OMXBGI,OMX_Baltic_GI,STO
+^OMRXMORT,OMRX Mortgage Bond Index,STO
+^B3700PI,OMX Baltic Personal & Household,STO
+^OMXBPI,OMX_Baltic_PI,STO
+^OMXB10GI,OMX_Baltic_10_GI,STO
+^OMXSSCGI,OMX_Stockholm_Small_Cap_GI,STO
+^OMXNSCDKKGI,OMX_Nordic_Small_Cap_DKK_GI,STO
+^FN9000GI,First North Technology GI,STO
+^FN2000PI,First North Industrials PI,STO
+^FN3000GI,First North Consumer Goods GI,STO
+^HOXHOUSESWE,NASDAQ OMX Valueguard-KTH House,STO
+^HOXHOUSESTO,NASDAQ OMX Valueguard-KTH House,STO
+^HOXFLATMCSWE,NASDAQ OMX Valueguard Flats Med,STO
+^NQCIHGER,^NQCIHGER,STO
+^HOXFLATMLM,NASDAQ OMX Valueguard Flats Mal,STO
+^OMXSPI,OMX Stockholm_PI,STO
+^SX1770PI,OMX Stockholm Mining PI,STO
+^SX2720GI,OMX Stockholm General Industria,STO
+^SX2300PI,OMX Stockholm Construction & Ma,STO
+^SX3350GI,OMX Stockholm Automobiles & Par,STO
+^SX7530GI,OMX Stockholm Electricity GI,STO
+^SX1750PI,OMX Stockholm Industrial Metals,STO
+^SX3300PI,OMX Stockholm Automobiles & Par,STO
+^OMXSBPI,OMX Stockholm Benchmark_PI,STO
+^SX5750GI,OMX Stockholm Travel & Leisure,STO
+^SX0530GI,OMX Stockholm Oil & Gas Produce,STO
+^SX6530PI,OMX Stockholm Fixed Line Teleco,STO
+^SX4000PI,OMX Stockholm Health Care PI,STO
+^SX4570PI,OMX Stockholm Pharmaceuticals &,STO
+^NOMXN120,NASDAQ OMX Nordic 120,STO
+^N2700EURPI,N Industrial Goods & Services E,STO
+^N1300EURGI,N Chemicals EUR GI,STO
+^N5300EURPI,N Retail EUR PI,STO
+^N8000EURPI,N Financials EUR PI,STO
+^N7500EURPI,N Utilities EUR PI,STO
+^OMX,OMX Stockholm 30 Index,STO
+^OMXO20GI,OMX Oslo 20 GI,STO
+^OMXETHICALNO,OMX GES Ethical Norway Index,STO
+^OMXETHICALNC,OMX GES Ethical Nordic Index,STO
+^OMRXBONDALL,OMRX Bond All Index,STO
+^OMXSBSHARIA,^OMXSBSHARIA,STO
+^OMRXBONDALLMUN,OMRX Bond All plus Muni Index,STO
+^OMRXMORT5,OMRX Mortgage Bond 5- y Index,STO
+^OMXS30ETHICPI,OMX GES OMXS30 Ethical Price In,STO
+^OMXSUSTETHSEPI,OMX GES Sustainability Sweden E,STO
+^OMXSUSTETHSEGI,OMX GES Sustainability Sweden E,STO
+^SLSFI85,Skandia Livs Sv. Forvaltningsin,STO
+^OMXS30NEXT,OMX Stockholm 30 Next_PI,STO
+^OMXNLCEURPI,OMX_Nordic_Large_Cap_EUR_PI,STO
+^OMXNLCDKKPI,OMX_Nordic_Large_Cap_DKK_PI,STO
+^OMXS30DVP,OMX Stockholm 30 Dividend Point,STO
+^SEBCAPETHIC,SEB Ethical Cap GI,STO
+^OMXSBCAPGI,OMX Stockholm Benchmark Cap_GI,STO
+^OMXNORDICSEKGI,OMX_Nordic_SEK_GI,STO
+^OMXSMCGI,OMX_Stockholm_Mid_Cap_GI,STO
+^OMXS60CAPPI,OMX Stockholm 60 Cap_PI,STO
+^OMXNLCEURGI,OMX_Nordic_Large_Cap_EUR_GI,STO
+^OMXETHICALFI,OMX GES Ethical Finland Index,STO
+^OMXSB,^OMXSB,STO
+^OMRXTBOND5,OMRX Treasury Bond 5- y Index,STO
+^OMXS30ETHICGI,OMX GES OMXS30 Ethical Gross In,STO
+^OMXS30WEEKEXP,OMX Stockholm 30 Weekly Expirat,STO
+^OMRXREAL,OMRX Real Return Bond Index,STO
+^OMXNLCSEKGI,OMX_Nordic_Large_Cap_SEK_GI,STO
+^OMXSUSTAINNCPI,OMX GES Sustainability Nordic P,STO
+^OMXSSCPI,OMX_Stockholm_Small_Cap_PI,STO
+^NQCICLER,^NQCICLER,STO
+^OMXSGI,OMX Stockholm_GI,STO
+^OMXSBSHARIACTR,^OMXSBSHARIACTR,STO
+^OMXSLCPI,OMX_Stockholm_Large_Cap_PI,STO
+^OMXSUSTSECAPPI,OMX GES Sustainability Sweden C,STO
+^OMXN40,OMX Nordic 40,STO
+^OMXS60,OMX Stockholm 60_GI,STO
+^OMXNMCDKKGI,OMX_Nordic_Mid_Cap_DKK_GI,STO
+^OMXNORDICSEKPI,OMX_Nordic_SEK_PI,STO
+^OMRXTBOND,OMRX Treasury Bond Index,STO
+^OMXS30ASK,OMX Stockholm 30 Ask,STO
+^OMXSUSTAINNCGI,OMX GES Sustainability Nordic G,STO
+^OMXNMCSEKGI,OMX_Nordic_Mid_Cap_SEK_GI,STO
+^SHBOMXVERK,Handelsbanken OMX Verkstad PI,STO
+^OMXNLCISKGI,OMX_Nordic_Large_Cap_ISK_GI,STO
+^OMXNMCEURGI,OMX_Nordic_Mid_Cap_EUR_GI,STO
+^OMXNORDICDKKGI,OMX_Nordic_DKK_GI,STO
+^OMRXTBOND35,OMRX Treasury Bond 3-5 y Index,STO
+^OMXNSCSEKPI,OMX_Nordic_Small_Cap_SEK_PI,STO
+^OMXNSCDKKPI,OMX_Nordic_Small_Cap_DKK_PI,STO
+^SLSFISMA,^SLSFISMA,STO
+^OMXS30BAL20,OMXS30 Balance 20 Percent,STO
+^OMXNLCISKPI,OMX_Nordic_Large_Cap_ISK_PI,STO
+^OMXNSCEURPI,OMX_Nordic_Small_Cap_EUR_PI,STO
+^OMXB10EXP,OMX_Baltic_10_EXP,STO
+^OMRXTOT,OMRX Total Market Index,STO
+^OMXNMCEURPI,OMX_Nordic_Mid_Cap_EUR_PI,STO
+^OMRXBOND35,OMRX Bond All 3-5 y Index,STO
+^OMXSBSHARIATR,^OMXSBSHARIATR,STO
+^OMXS30EXP,OMX Stockholm 30 Expiration Ind,STO
+^OMXNMCISKGI,OMX_Nordic_Mid_Cap_ISK_GI,STO
+^OMXSCAPPI,OMX Stockholm All-Share Cap_PI,STO
+^OMRXTBILL30,OMRX Treasury Bill 30 day Index,STO
+^OMXS60CAPGI,OMX Stockholm 60 Cap_GI,STO
+^SLSFISTORA,^SLSFISTORA,STO
+^OMXS30FF,OMX Stockholm 30 Free Float,STO
+^OMXNSCISKGI,OMX_Nordic_Small_Cap_ISK_GI,STO
+^OMRXBOND,OMRX Total Bond Index,STO
+^OMXSUSTNCCAPPI,OMX GES Sustainability Nordic C,STO
+^OMXNMCDKKPI,OMX_Nordic_Mid_Cap_DKK_PI,STO
+^OMRXMUNI,OMRX Municipal Bond Index,STO
+^OMXNSCSEKGI,OMX_Nordic_Small_Cap_SEK_GI,STO
+^SLSFIFAST,^SLSFIFAST,STO
+^OMXBBGI,OMX_Baltic_Benchmark_GI,STO
+^OMXBBCAPGI,OMX_Baltic_Benchmark_Cap_GI,STO
+^OMXS50EW,OMX Stockholm 50 Equal Weighted,STO
+^OMXO20GIEXP,OMX Oslo 20 GI Expiration Index,STO
+^OMXNMCISKPI,OMX_Nordic_Mid_Cap_ISK_PI,STO
+^OMRXTBILL90,OMRX Treasury Bill 90 day Index,STO
+^OMXSLCGI,OMX_Stockholm_Large_Cap_GI,STO
+^OMXNORDICISKPI,OMX_Nordic_ISK_PI,STO
+^OMRXTBILL60,OMRX Treasury Bill 60 day Index,STO
+^OMXNLCSEKPI,OMX_Nordic_Large_Cap_SEK_PI,STO
+^OMXSUSTNCCAPGI,OMX GES Sustainability Nordic C,STO
+^SWGOVT115,Swedish Government Bond 1-15,STO
+^OMXSBGIEXP,OMX Stockholm Benchmark_GI Exp,STO
+^OMRXGOVT,OMRX Government Debt Index,STO
+^OMXNORDICEURGI,OMX_Nordic_EUR_GI,STO
+^OMRXTBILL180,OMRX Treasury Bill 180 day Inde,STO
+^OMRXBOND13,OMRX Bond All 1-3 y Index,STO
+^OMXS30BID,OMX Stockholm 30 Bid,STO
+^OMXS60PI,OMX Stockholm 60_PI,STO
+^OMXSBCAPPI,OMX Stockholm Benchmark Cap_PI,STO
+^B3700GI,OMX Baltic Personal & Household,STO
+^NOMXNINGI,NASDAQ OMX Nordic Industrials G,STO
+^NOMXNTISEK,NASDAQ OMX Nordic Tele & InfoTe,STO
+^NOMXNMA,NASDAQ OMX Nordic Materials,STO
+^N3300EURPI,N Automobiles & Parts EUR PI,STO
+^NOMXCRRFPR,NOMX Credit SEK Rated Financial,STO
+^TV.ST,Volume in 000's,STO
+^FIRSTNORTHISK,First North All-Share ISK,STO
+^FIRSTNORTHSEK,First North All-Share SEK,STO
+^FIRSTNORTHEUR,First North All-Share EUR,STO
+^OMXBBPI,OMX_Baltic_Benchmark_PI,STO
+^OMXBBCAPPI,OMX_Baltic_Benchmark_Cap_PI,STO
+^OMRXTBILL,OMRX Treasury Bill Index,STO
+^NQCISIER,^NQCISIER,STO
+^NQCIPAER,^NQCIPAER,STO
+^NQCIGCER,^NQCIGCER,STO
+^NQCIPATR,^NQCIPATR,STO
+^NQCINGER,^NQCINGER,STO
+^OMXNLCDKKGI,OMX_Nordic_Large_Cap_DKK_GI,STO
+^FN9000PI,First North Technology PI,STO
+^FN8000GI,First North Financials GI,STO
+^FN5000GI,First North Consumer Services G,STO
+^FN4000GI,First North Health Care GI,STO
+^FN8000PI,First North Financials PI,STO
+^FN4000PI,First North Health Care PI,STO
+^FN1000PI,First North Basic Materials PI,STO
+^FN5000PI,First North Consumer Services P,STO
+^FN7000GI,First North Utilities GI,STO
+^FN0001PI,First North Oil & Gas PI,STO
+^FN7000PI,First North Utilities PI,STO
+^FN1000GI,First North Basic Materials GI,STO
+^FN3000PI,First North Consumer Goods PI,STO
+^FN2000GI,First North Industrials GI,STO
+^FN0001GI,First North Oil & Gas GI,STO
+^OMXNSCEURGI,OMX_Nordic_Small_Cap_EUR_GI,STO
+^HOXHOUSEMCSWE,NASDAQ OMX Valueguard-KTH House,STO
+^HOXHOUSEGBG,NASDAQ OMX Valueguard-KTH House,STO
+^HOXFLATSTO,NASDAQ OMX Valueguard Flats Sto,STO
+^HOXSWE,NASDAQ OMX Valueguard-KTH Housi,STO
+^HOXFLATSWE,NASDAQ OMX Valueguard Flats Swe,STO
+^HOXFLATGBG,NASDAQ OMX Valueguard Flats Got,STO
+^HOXHOUSEMLM,NASDAQ OMX Valueguard-KTH House,STO
+^SX8700PI,OMX Stockholm Financial Service,STO
+^SX9530PI,OMX Stockholm Software & Comput,STO
+^NOMXCRRNFSP,NOMX Credit SEK Rated Non-Finan,STO
+^NOMXNTIGI,NASDAQ OMX Nordic Telecom & Inf,STO
+^NOMXNHCSEKNI,NASDAQ OMX Nordic Health Care S,STO
+^NOMXCRFSP,NOMX Credit SEK Financial Sprea,STO
+^NOMXNINSEK,NASDAQ OMX Nordic Industrials S,STO
+^NOMXNHC,NASDAQ OMX Nordic Health Care,STO
+^NOMXNCRSEKNI,NASDAQ OMX Nordic Const & Real,STO
+^NOMXNCOSEK,NASDAQ OMX Nordic Consumer SEK,STO
+^NOMXNTISEKGI,NASDAQ OMX Nordic Tele & InfoTe,STO
+^NOMXNENSEKNI,NASDAQ OMX Nordic Energy SEK Ne,STO
+^NOMXNHCSEKGI,NASDAQ OMX Nordic Health Care S,STO
+^NOMXNMASEKNI,NASDAQ OMX Nordic Materials SEK,STO
+^NOMXNBINI,NASDAQ OMX Nordic Bank & Insura,STO
+^NOMXN120SEK,NASDAQ OMX Nordic 120 SEK,STO
+^NOMXCRFTR,NOMX Credit SEK Financial Retur,STO
+^NOMXCRRNFTR,NOMX Credit SEK Rated Non-Finan,STO
+^NOMXNCRSEKGI,NASDAQ OMX Nordic Const & Real,STO
+^NOMXCRRFTR,NOMX Credit SEK Rated Financial,STO
+^NOMXNTINI,NASDAQ OMX Nordic Telecom & Inf,STO
+^NOMXNCO,NASDAQ OMX Nordic Consumer,STO
+^NOMXNTISEKNI,NASDAQ OMX Nordic Tele & InfoTe,STO
+^NOMXCRPR,NOMX Credit SEK Total Price Ind,STO
+^NOMXNINSEKNI,NASDAQ OMX Nordic Industrials S,STO
+^NOMXCRRTR,NOMX Credit SEK Rated Total Ret,STO
+^NOMXCRRFSP,NOMX Credit SEK Rated Financial,STO
+^NOMXN120NI,NASDAQ OMX Nordic 120 Net Index,STO
+^NOMXCRFPR,NOMX Credit SEK Financial Price,STO
+^NOMXNICSEKNI,NASDAQ OMX Nordic Invest Compan,STO
+^NOMXNICGI,NASDAQ OMX Nordic Investment Co,STO
+^NOMXNENSEK,NASDAQ OMX Nordic Energy SEK,STO
+^NOMXNCRSEK,NASDAQ OMX Nordic Const & Real,STO
+^NOMXNCONI,NASDAQ OMX Nordic Consumer Net,STO
+^NOMXNMANI,NASDAQ OMX Nordic Materials Net,STO
+^NOMXNICNI,NASDAQ OMX Nordic Investment Co,STO
+^NOMXNTPGI,NASDAQ OMX Nordic Transportatio,STO
+^NOMXCRRSP,NOMX Credit SEK Rated Total Spr,STO
+^NOMXNTPSEKGI,NASDAQ OMX Nordic Transportatio,STO
+^NOMXNHCSEK,NASDAQ OMX Nordic Health Care S,STO
+^NOMXNBIGI,NASDAQ OMX Nordic Bank & Insura,STO
+^NOMXN120GI,NASDAQ OMX Nordic 120 Gross Ind,STO
+^NOMXN120SEKGI,NASDAQ OMX Nordic 120 SEK Gross,STO
+^NOMXNCRNI,NASDAQ OMX Nordic Construction,STO
+^NOMXCRNFPR,NOMX Credit SEK Non-Financial P,STO
+^NOMXNIN,NASDAQ OMX Nordic Industrials,STO
+^NOMXNENNI,NASDAQ OMX Nordic Energy Net In,STO
+^NOMXNCOSEKGI,NASDAQ OMX Nordic Consumer SEK,STO
+^NOMXNTPSEK,NASDAQ OMX Nordic Transportatio,STO
+^NOMXCRNFSP,NOMX Credit SEK Non-Financial S,STO
+^NOMXNENSEKGI,NASDAQ OMX Nordic Energy SEK Gr,STO
+^NOMXNTP,NASDAQ OMX Nordic Transportatio,STO
+^NOMXCRRNFPR,NOMX Credit SEK Rated Non-Finan,STO
+^NOMXNBISEKNI,NASDAQ OMX Nordic Bank & Insura,STO
+^NOMXNICSEKGI,NASDAQ OMX Nordic Invest Compan,STO
+^NOMXNINSEKGI,NASDAQ OMX Nordic Industrials S,STO
+^NOMXNENGI,NASDAQ OMX Nordic Energy Gross,STO
+^NOMXNBISEK,NASDAQ OMX Nordic Bank & Insura,STO
+^NOMXNINNI,NASDAQ OMX Nordic Industrials N,STO
+^NOMXNICSEK,NASDAQ OMX Nordic Invest Compan,STO
+^NOMXNCR,NASDAQ OMX Nordic Construction,STO
+^NOMXNTPSEKNI,NASDAQ OMX Nordic Transportatio,STO
+^NOMXNCRGI,NASDAQ OMX Nordic Construction,STO
+^NOMXNMAGI,NASDAQ OMX Nordic Materials Gro,STO
+^NOMXCRTR,NOMX Credit SEK Total Return In,STO
+^NOMXNCOSEKNI,NASDAQ OMX Nordic Consumer SEK,STO
+^NOMXN120SEKNI,NASDAQ OMX Nordic 120 SEK Net I,STO
+^NOMXNBISEKGI,NASDAQ OMX Nordic Bank & Insura,STO
+^NOMXNIC,NASDAQ OMX Nordic Investment Co,STO
+^NOMXNHCNI,NASDAQ OMX Nordic Health Care N,STO
+^NOMXCRRPR,NOMX Credit SEK Rated Total Pri,STO
+^NOMXNCOGI,NASDAQ OMX Nordic Consumer Gros,STO
+^NOMXNTPNI,NASDAQ OMX Nordic Transportatio,STO
+^NOMXNMASEK,NASDAQ OMX Nordic Materials SEK,STO
+^NOMXNBI,NASDAQ OMX Nordic Bank & Insura,STO
+^NOMXNTI,NASDAQ OMX Nordic Telecom & Inf,STO
+^NOMXCRSP,NOMX Credit SEK Total Spread In,STO
+^NOMXNMASEKGI,NASDAQ OMX Nordic Materials SEK,STO
+^NOMXNEN,NASDAQ OMX Nordic Energy,STO
+^NOMXNHCGI,NASDAQ OMX Nordic Health Care G,STO
+^OMXS30GI,OMX Stockholm 30_GI,STO
+^NOMXCRNFTR,NOMX Credit SEK Non-Financial R,STO
+^OMXS30SHORTX2,OMXS30 Double Short Index,STO
+^OMXSCAPGI,OMX Stockholm All-Share Cap_GI,STO
+^OMRXMORT35,OMRX Mortgage Bond 3-5 y Index,STO
+^OMXS30LONGX2,OMXS30 Double Long Index,STO
+^OMXSMCPI,OMX_Stockholm_Mid_Cap_PI,STO
+^OMRXALLMUNI,OMRX All plus Muni Index,STO
+^OMXO20PI,OMX Oslo 20 PI,STO
+^OMRXBOND5,OMRX Bond All 5- y Index,STO
+^OMRXALL,OMRX All Index,STO
+^OMXETHICALDK,OMX GES Ethical Denmark Index,STO
+^OMRXON,OMRX Deposition Overnight Index,STO
+^OMXS30NI,OMX Stockholm 30_NI,STO
+^OMXAFGX,OMX Affarsvarldens Generalindex,STO
+^NOMXSCSEGI,NASDAQ OMX Small Cap Sweden GI,STO
+^OMRXTBOND13,OMRX Treasury Bond 1-3 y Index,STO
+^OMXSUSTAINSEPI,OMX GES Sustainability Sweden P,STO
+^OMXNSCISKPI,OMX_Nordic_Small_Cap_ISK_PI,STO
+^OMXSUSTSECAPGI,OMX GES Sustainability Sweden C,STO
+^OMXNMCSEKPI,OMX_Nordic_Mid_Cap_SEK_PI,STO
+^OMRXMM,OMRX Money Market Index,STO
+^OMXSUSTAINSEGI,OMX GES Sustainability Sweden G,STO
+^SLSFIEXFAST,^SLSFIEXFAST,STO
+^SHBOMXBANK,Handelsbanken OMX Bank PI,STO
+^OMXS30NEXTGI,OMX Stockholm 30 Next_GI,STO
+^NOMXSCSEPI,NASDAQ OMX Small Cap Sweden PI,STO
+^OMXS30W,^OMXS30W,STO
+^OMRXMORT13,OMRX Mortgage Bond 1-3 y Index,STO
+^OMXNORDICISKGI,OMX_Nordic_ISK_GI,STO
+^OMXETHICALSE,OMX GES Ethical Sweden Index,STO
+^OMRXMORTALL,OMRX Mortgage Bond All Index,STO
+^SLSFI,^SLSFI,STO
+^RSX,^RSX,STO
+^N6500EURGI,N Telecommunications EUR GI,STO
+^N3700EURPI,N Personal & Household Goods EU,STO
+^N1700EURGI,N Basic Resources EUR GI,STO
+^B3000GI,OMX Baltic Consumer Goods GI,STO
+^SX1300PI,OMX Stockholm Chemicals PI,STO
+^SX0530PI,OMX Stockholm Oil & Gas Produce,STO
+^N1000EURPI,N Basic Materials EUR PI,STO
+^N8700EURGI,N Financial Services EUR GI,STO
+^SX6570PI,OMX Stockholm Mobile Telecommun,STO
+^SX5330PI,OMX Stockholm Food & Drug Retai,STO
+^SX1770GI,OMX Stockholm Mining GI,STO
+^SX5370GI,OMX Stockholm General Retailers,STO
+^N9000EURGI,N Technology EUR GI,STO
+^N5700EURPI,N Travel & Leisure EUR PI,STO
+^SX9500GI,OMX Stockholm Technology GI,STO
+^SX4570GI,OMX Stockholm Pharmaceuticals &,STO
+^SX6500PI,OMX Stockholm Telecommunication,STO
+^N2300EURGI,N Construction & Materials EUR,STO
+^SX2750GI,OMX Stockholm Industrial Engine,STO
+^SX9570PI,OMX Stockholm Technology Hardwa,STO
+^N0500EURGI,N Oil & Gas EUR GI,STO
+^SX2750PI,OMX Stockholm Industrial Engine,STO
+^SX3780GI,OMX Stockholm Tobacco GI,STO
+^SX8350PI,OMX Stockholm Banks PI,STO
+^SX0500PI,OMX Stockholm Oil & Gas PI,STO
+^N5000EURPI,N Consumer Services EUR PI,STO
+^SX2000GI,OMX Stockholm Industrials GI,STO
+^SX3000GI,OMX Stockholm Consumer Goods GI,STO
+^SX3500GI,OMX Stockholm Food & Beverage G,STO
+^SX9500PI,OMX Stockholm Technology PI,STO
+^B4000PI,OMX Baltic Health Care PI,STO
+^SX4530GI,OMX Stockholm Health Care Equip,STO
+^SX3000PI,OMX Stockholm Consumer Goods PI,STO
+^SX5500PI,OMX Stockholm Media PI,STO
+^B6000GI,OMX Baltic Telecommunications G,STO
+^B2000PI,OMX Baltic Industrials PI,STO
+^SX3500PI,OMX Stockholm Food & Beverage P,STO
+^N9000EURPI,N Technology EUR PI,STO
+^SX7500GI,OMX Stockholm Utilities GI,STO
+^SX1350PI,OMX Stockholm Chemicals PI,STO
+^SX3700GI,OMX Stockholm Personal & Househ,STO
+^B8700PI,OMX Baltic Financial Services P,STO
+^B7500PI,OMX Baltic Utilities PI,STO
+^N8000EURGI,N Financials EUR GI,STO
+^SX8770GI,OMX Stockholm Financial Service,STO
+^SX1000GI,OMX Stockholm Basic Materials G,STO
+^N7500EURGI,N Utilities EUR GI,STO
+^SX7000PI,OMX Stockholm Utilities PI,STO
+^B2300PI,OMX Baltic Construction & Mater,STO
+^B5500GI,OMX Baltic Media GI,STO
+^SX3300GI,OMX Stockholm Automobiles & Par,STO
+^N4500EURGI,N Health Care EUR GI,STO
+^SX8600GI,OMX Stockholm Real Estate GI,STO
+^SX1300GI,OMX Stockholm Chemicals GI,STO
+^N9500EURPI,N Technology EUR PI,STO
+^B8000PI,OMX Baltic Financials PI,STO
+^B2300GI,OMX Baltic Construction & Mater,STO
+^N4000EURGI,N Health Care EUR GI,STO
+^SX5550PI,OMX Stockholm Media PI,STO
+^SX0001PI,OMX Stockholm Oil & Gas PI,STO
+^B5000PI,OMX Baltic Consumer Services PI,STO
+^SX5000PI,OMX Stockholm Consumer Services,STO
+^SX6570GI,OMX Stockholm Mobile Telecommun,STO
+^NQNDMOT,Nasdaq Nordea SmartBeta Momentu,STO
+^SX1730GI,OMX Stockholm Forestry & Paper,STO
+^SX2350PI,OMX Stockholm Construction & Ma,STO
+^N0001EURGI,N Oil & Gas EUR GI,STO
+^SX2770GI,OMX Stockholm Industrial Transp,STO
+^N1700EURPI,N Basic Resources EUR PI,STO
+^SX0500GI,OMX Stockholm Oil & Gas GI,STO
+^N3500EURGI,N Food & Beverage EUR GI,STO
+^N8500EURPI,N Insurance EUR PI,STO
+^B5300GI,OMX Baltic Retail GI,STO
+^B2700PI,OMX Baltic Industrial Goods & S,STO
+^B8600PI,OMX Baltic Real Estate PI,STO
+^N5700EURGI,N Travel & Leisure EUR GI,STO
+^SX5370PI,OMX Stockholm General Retailers,STO
+^B6500PI,OMX Baltic Telecommunications P,STO
+^N2300EURPI,N Construction & Materials EUR,STO
+^SX6000PI,OMX Stockholm Telecommunication,STO
+^SX2730GI,OMX Stockholm Electronic & Elec,STO
+^SX6530GI,OMX Stockholm Fixed Line Teleco,STO
+^SX2700PI,OMX Stockholm Industrial Goods,STO
+^SX1730PI,OMX Stockholm Forestry & Paper,STO
+^SX3760PI,OMX Stockholm Personal Goods PI,STO
+^N5000EURGI,N Consumer Services EUR GI,STO
+^B3500GI,OMX Baltic Food & Beverage GI,STO
+^B3500PI,OMX Baltic Food & Beverage PI,STO
+^SX0580PI,OMX Stockholm Alternative Energ,STO
+^SX4530PI,OMX Stockholm Health Care Equip,STO
+^SX1350GI,OMX Stockholm Chemicals GI,STO
+^SX9570GI,OMX Stockholm Technology Hardwa,STO
+^SX8000GI,OMX Stockholm Financials GI,STO
+^B8000GI,OMX Baltic Financials GI,STO
+^B3300GI,OMX Baltic Automobiles & Parts,STO
+^B5000GI,OMX Baltic Consumer Services GI,STO
+^SX8300GI,OMX Stockholm Banks GI,STO
+^N8700EURPI,N Financial Services EUR PI,STO
+^B7500GI,OMX Baltic Utilities GI,STO
+^SX8350GI,OMX Stockholm Banks GI,STO
+^B3000PI,OMX Baltic Consumer Goods PI,STO
+^SX2350GI,OMX Stockholm Construction & Ma,STO
+^B1700GI,OMX Baltic Basic Resources GI,STO
+^SX5300GI,OMX Stockholm Retail GI,STO
+^SX3350PI,OMX Stockholm Automobiles & Par,STO
+^B5700GI,OMX Baltic Travel & Leisure GI,STO
+^N9500EURGI,N Technology EUR GI,STO
+^N5300EURGI,N Retail EUR GI,STO
+^N5500EURPI,N Media EUR PI,STO
+^SX1700GI,OMX Stockholm Basic Resources G,STO
+^B4000GI,OMX Baltic Health Care GI,STO
+^B5300PI,OMX Baltic Retail PI,STO
+^B9000PI,OMX Baltic Technology PI,STO
+^B2000GI,OMX Baltic Industrials GI,STO
+^N5500EURGI,N Media EUR GI,STO
+^N2000EURGI,N Industrials EUR GI,STO
+^SX5550GI,OMX Stockholm Media GI,STO
+^NQNDDMT,NASDAQ Nordea SmartBeta Dividen,STO
+^B7000GI,OMX Baltic Utilities GI,STO
+^SX2700GI,OMX Stockholm Industrial Goods,STO
+^SX2710PI,OMX Stockholm Aerospace & Defen,STO
+^SX6500GI,OMX Stockholm Telecommunication,STO
+^N1000EURGI,N Basic Materials EUR GI,STO
+^SX5000GI,OMX Stockholm Consumer Services,STO
+^SX5330GI,OMX Stockholm Food & Drug Retai,STO
+^B5500PI,OMX Baltic Media PI,STO
+^N8600EURGI,N Real Estate EUR GI,STO
+^SX1750GI,OMX Stockholm Industrial Metals,STO
+^B8600GI,OMX Baltic Real Estate GI,STO
+^SX8630GI,OMX Stockholm Real Estate Inves,STO
+^SX2790GI,OMX Stockholm Support Services,STO
+^SX9530GI,OMX Stockholm Software & Comput,STO
+^B1000GI,OMX Baltic Basic Materials GI,STO
+^N6500EURPI,N Telecommunications EUR PI,STO
+^SX1000PI,OMX Stockholm Basic Materials P,STO
+^N6000EURPI,N Telecommunications EUR PI,STO
+^SX3570PI,OMX Stockholm Food Producers PI,STO
+^NQNDMVT,NASDAQ Nordea SmartBeta Momentu,STO
+^SX3720GI,OMX Stockholm Hhld Goods & Hme,STO
+^SX3780PI,OMX Stockholm Tobacco PI,STO
+^B6000PI,OMX Baltic Telecommunications P,STO
+^B7000PI,OMX Baltic Utilities PI,STO
+^B8300GI,OMX Baltic Banks GI,STO
+^B4500PI,OMX Baltic Health Care PI,STO
+^N2000EURPI,N Industrials EUR PI,STO
+^SX2790PI,OMX Stockholm Support Services,STO
+^SX2770PI,OMX Stockholm Industrial Transp,STO
+^N4000EURPI,N Health Care EUR PI,STO
+^N3700EURGI,N Personal & Household Goods EU,STO
+^SX4500PI,OMX Stockholm Health Care PI,STO
+^SX5700PI,OMX Stockholm Travel & Leisure,STO
+^N3000EURGI,N Consumer Goods EUR GI,STO
+^SX0580GI,OMX Stockholm Alternative Energ,STO
+^N3000EURPI,N Consumer Goods EUR PI,STO
+^SX1700PI,OMX Stockholm Basic Resources P,STO
+^N0500EURPI,N Oil & Gas EUR PI,STO
+^SX3700PI,OMX Stockholm Personal & Househ,STO
+^N7000EURPI,N Utilities EUR PI,STO
+^SX3740PI,OMX Stockholm Leisure Goods PI,STO
+^SX5300PI,OMX Stockholm Retail PI,STO
+^SX9000GI,OMX Stockholm Technology GI,STO
+^SX8600PI,OMX Stockholm Real Estate PI,STO
+^N8600EURPI,N Real Estate EUR PI,STO
+^SX2720PI,OMX Stockholm General Industria,STO
+^SX8000PI,OMX Stockholm Financials PI,STO
+^N4500EURPI,N Health Care EUR PI,STO
+^SX8700GI,OMX Stockholm Financial Service,STO
+^SX4500GI,OMX Stockholm Health Care GI,STO
+^SX8770PI,OMX Stockholm Financial Service,STO
+^B3300PI,OMX Baltic Automobiles & Parts,STO
+^B9500GI,OMX Baltic Technology GI,STO
+^B5700PI,OMX Baltic Travel & Leisure PI,STO
+^SX6000GI,OMX Stockholm Telecommunication,STO
+^N0001EURPI,N Oil & Gas EUR PI,STO
+^SX5700GI,OMX Stockholm Travel & Leisure,STO
+^SX3760GI,OMX Stockholm Personal Goods GI,STO
+^B9500PI,OMX Baltic Technology PI,STO
+^B1000PI,OMX Baltic Basic Materials PI,STO
+^NQNDDIT,Nasdaq Nordea SmartBeta Dividen,STO
+^SX2730PI,OMX Stockholm Electronic & Elec,STO
+^N8300EURPI,N Banks EUR PI,STO
+^SX3740GI,OMX Stockholm Leisure Goods GI,STO
+^SX5500GI,OMX Stockholm Media GI,STO
+^TMT,ABG TMT Nordic Index,STO
+^NQNDDVT,NASDAQ Nordea SmartBeta Dividen,STO
+^NQNDVOT,Nasdaq Nordea SmartBeta Volatil,STO
